@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Brook Scotty
 
 # TECHNOLOGY COLOPHON
 
